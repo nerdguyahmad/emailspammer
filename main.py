@@ -1,6 +1,5 @@
 import smtplib
 import os
-import emp
 import time
 
 def clear():
